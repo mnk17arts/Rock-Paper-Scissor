@@ -1,5 +1,3 @@
-# Rock-Paper-Scissor
-A small 2way game
 #rock-paper-scissor.m
 #code by @mnk17arts
 
