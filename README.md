@@ -11,7 +11,8 @@ Hello everyone!
  C - Python - Java - HTML - CSS
 
  my projects :-
- 1. Rock Paper Scissor - https://github.com/mnk17arts/Rock-Paper-Scissor
-    # Rock-Paper-Scissor
+  # 1. Rock-Paper-Scissor
+ [Rock Paper Scissor] (https://github.com/mnk17arts/Rock-Paper-Scissor)
+   
  2. Simple Calculator GUI -
     # Simple-Calculator-GUI
