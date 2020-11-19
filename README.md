@@ -1,4 +1,4 @@
-#mnk17arts
+# mnk17arts
 Hello everyone!
  This is Nitish Kumar!
  * student in National Institute Of Technology Patna
@@ -12,4 +12,6 @@ Hello everyone!
 
  my projects :-
  1. Rock Paper Scissor - https://github.com/mnk17arts/Rock-Paper-Scissor
-    #Rock-Paper-Scissor
+    # Rock-Paper-Scissor
+ 2. Simple Calculator GUI -
+    # Simple-Calculator-GUI
