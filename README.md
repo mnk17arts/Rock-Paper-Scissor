@@ -10,4 +10,4 @@
  C - Python - Java - HTML - CSS
 
  my projects :-
- 1. Rock Paper Scissor
+ 1. Rock Paper Scissor - https://github.com/mnk17arts/Rock-Paper-Scissor
