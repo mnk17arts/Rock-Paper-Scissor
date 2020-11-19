@@ -14,5 +14,5 @@ Hello everyone!
 
  1 [Rock Paper Scissor](https://github.com/mnk17arts/Rock-Paper-Scissor)
    
- 2 [Simple Calculator GUI](w)
+ 2 [Simple Calculator GUI](https://github.com/mnk17arts/Simple-Calculator-GUI)
   
