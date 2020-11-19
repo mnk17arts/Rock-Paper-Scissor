@@ -10,9 +10,9 @@ Hello everyone!
  languages i know :-
  C - Python - Java - HTML - CSS
 
- my projects :-
+# my projects :-
   # 1. Rock-Paper-Scissor
  [Rock Paper Scissor](https://github.com/mnk17arts/Rock-Paper-Scissor)
    
- 2. Simple Calculator GUI -
-    # Simple-Calculator-GUI
+  # 2. Simple Calculator GUI -
+  [Simple-Calculator-GUI](w)
