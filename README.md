@@ -1,5 +1,5 @@
 # [mnk17arts](https://github.com/mnk17arts/mnk17arts)
-*Hello everyone!*
+## Hello everyone!
  This is `Nitish Kumar`!
  * student in National Institute Of Technology Patna
  * 
