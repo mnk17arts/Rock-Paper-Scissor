@@ -1,5 +1,5 @@
 # [mnk17arts](https://github.com/mnk17arts/mnk17arts)
-Hello everyone!
+*Hello everyone!*
  This is `Nitish Kumar`!
  * student in National Institute Of Technology Patna
  * 
@@ -20,3 +20,6 @@ Hello everyone!
    
  > [`Simple Calculator GUI`](https://github.com/mnk17arts/Simple-Calculator-GUI)
   
+ > [`Guess the Secret Number`](https://github.com/mnk17arts/Guess-The-Secret-Number)
+
+ > many more to do😂
