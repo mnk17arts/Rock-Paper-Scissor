@@ -7,8 +7,8 @@ Hello everyone!
  *
  I'm from Hyderabad! 
  
- languages i know :-
- C - Python - Java - HTML - CSS
+#  `skills`
+ > C > Python > Java  > HTML > CSS
 
 # **my projects** :- 
 
