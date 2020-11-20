@@ -8,7 +8,11 @@ Hello everyone!
  I'm from Hyderabad! 
  
 #  `skills`
- > C > Python > Java  > HTML > CSS
+ > C 
+ > Python 
+ > Java  
+ > HTML 
+ > CSS
 
 # **my projects** :- 
 
