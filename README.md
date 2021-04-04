@@ -22,6 +22,12 @@
   
  > [`Guess the Secret Number`](https://github.com/mnk17arts/Guess-The-Secret-Number)
 
- >  Tribute page 
+> [`Tribute Page`](https://codepen.io/mnk17arts/full/abpNaMJ)
+
+> [`Survey Form`](https://codepen.io/mnk17arts/full/ExZKGZj)
+
+> [`Product Landing Page`](https://codepen.io/mnk17arts/full/JjEKNJO)
+
+> [`Technical Documentation Page`](https://codepen.io/mnk17arts/full/ZELKLqQ)
 
 > many more to do😂
