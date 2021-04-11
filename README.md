@@ -2,8 +2,8 @@
 ## Hello everyone!
  This is `Nitish Kumar`!
  * student in National Institute Of Technology Patna
- * 
- *
+ * a web developer
+ * competative programmer
  *
  I'm from Hyderabad! 
  
