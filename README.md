@@ -1,7 +1,7 @@
- <b><h1> <p align="center">Namaste 🙏 </p> </h1> </b> 
+# <b> <p align="center">Namaste 🙏 </p>  </b> 
 ## *Who am I?* 😶
 Hey all, I am <b>Nitish Kumar</b> , an enthusiastic learner, doing my Bachelor of Technology in <b>National Institute of Technology, Patna</b>. For now I'm discovering the new me in this competative world.<br/> 
-I live in <b>Hyderabad</b> (India), which is very famous for its special <i><b>Dum Biryani 🍚</b></i> . Now you might visualizing yourself having Dum Biryani🍚 in a hand and a coke🍷 in the another one. What?? You are not a <i>coke</i> person ? Excuse me 😂 i said it generally. Yeah! we can have it together one day.If possible we can even have spicy pani puri also, I dont know about others but i'm very fond of it, I leterally have them daily😂. <br/>
+I live in <b>Hyderabad</b> (India), which is very famous for its special <i><b>Dum Biryani 🍚</b></i> . Now you might visualizing yourself having Dum Biryani🍚 in a hand and a coke🍷 in the another one. What?? You are not a <i>coke</i> person ? Excuse me 😂 i said it generally. Yeah! we can have it together one day.If possible we can even have spicy pani puri also, I dont know about others but i'm very fond of it, I literally have them daily😂. <br/>
 Oops! I think I have deviated totally to another track😅 Huhh! well I wont say that I'm a beginner or pro, rather a curious learner and developer😎 <br/>
 
 ## *What are my skills?* 💪
@@ -32,7 +32,7 @@ Oops! I think I have deviated totally to another track😅 Huhh! well I wont say
 + Java
 + Show more...
 
-## *Beginnig is the End* ⚠️
+## *Beginning is the End* ⚠️
 ### 👏 !! finally somehow you came to end of my README.<br/>
 ### *okay! how about a coffee☕ then ?* 😉
 Lets have a virtual one for now @
@@ -42,6 +42,5 @@ Lets have a virtual one for now @
 *  [`facebook`]()
 <br/><br/>ok then!! happy going!
 Hold a sec!! here is my [`CV`]()
-
 <hr/>
- <b><h1> <p align="center">Namaste 🙏 </p> </h1> </b> 
+<h1><b> <p align="center">Namaste 🙏 </p>  </b> <h1/>
