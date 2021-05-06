@@ -1,12 +1,9 @@
-# [mnk17arts](https://github.com/mnk17arts/mnk17arts)
-## Hello everyone!
- This is `Nitish Kumar`!
- * student in National Institute Of Technology Patna
- * a web developer
- * competative programmer
- *
- I'm from Hyderabad! 
- 
+ <b><h1> <p align="center">Namaste 🙏 </p> </h1> </b> 
+***
+# *Who am I?* 😶
+<br>
+ Hey all, I am `Nitish Kumar` , an enthusiastic learner, doing my Bachelor of Technology in `National Institute of Technology, Patna`. For now I'm discovering the new me in this competative world
+ .<br> I live in *Hyderabad* (India), which is very famous for its special **Dum Biryani** . Now you might visualizing yourself having Dum Biryani in a hand and a coke in the another one. What?? You are not a *coke* person ? Excuse me 😂 i said it generally. Yeah! we can have it together one day.
 #  `skills`
  > C 
  > Python 
