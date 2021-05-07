@@ -5,7 +5,7 @@ I live in <b>Hyderabad</b> (India), which is very famous for its special <i><b>D
 Oops! I think I have deviated totally to another track😅 Huhh! well I wont say that I'm a beginner or pro, rather a curious learner and developer😎 <br/>
 
 ## *What are my skills?* 💪
- `C` | `PYTHON` | `HTML` | `CSS` | `JS` | `JAVA` | `MATLAB` | `MS OFFICE` <br/>
+ `C` | `PYTHON` | `HTML` | `CSS` | `JS` | `JAVA` | `MATLAB` <br/>
 <br/><img height="160em" src="https://github-readme-stats.vercel.app/api?username=mnk17arts&show_icons=true&theme=merko&custom_title=My+GitHub+Stats&include_all_commits=true"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnk17arts&theme=merko&langs_count=5&layout=compact&api_domain=Wakapi"><a/>
 <br/>
 > NOTE: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
