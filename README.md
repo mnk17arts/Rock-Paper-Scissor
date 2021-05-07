@@ -36,10 +36,11 @@ Oops! I think I have deviated totally to another track😅 Huhh! well I wont say
 ### 👏 !! finally somehow you came to end of my README.<br/>
 ### *okay! how about a coffee☕ then ?* 😉
 Lets have a virtual one for now @
-*  [`LinkedIn`]()
-*  [`Instagram`]()
-*  [`mail`]()
-*  [`facebook`]()
+*  [`LinkedIn`](https://www.linkedin.com/in/mnk17arts/)
+*  [`Instagram`](https://www.instagram.com/mnk17arts__/)
+*  [`mail`](mailto:mnk17arts@gmail.com)
+*  [`facebook`](https://www.facebook.com/nit1717)
+*  [`twitter`](https://twitter.com/mnk17art_?s=09)
 <br/><br/>ok then!! happy going!
 Hold a sec!! here is my [`CV`]()
 <hr/>
