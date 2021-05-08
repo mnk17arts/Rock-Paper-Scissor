@@ -12,7 +12,7 @@ Oops! I think I have deviated totally to another track😅 Huhh! well I wont say
 ## *Searching for my works?* 👇 
 ### here they are!
 > OpenCV Projects
-+ Face Detection Project
++ [Face Recognition Project](https://github.com/mnk17arts/myPython/tree/main/opencv/face-recognition-project)
 + Hand Detection Project
 + Virtual paint Project
 + Show more...
