@@ -13,7 +13,7 @@ Oops! I think I have deviated totally to another track😅 Huhh! well I wont say
 ### here they are!
 > OpenCV Projects
 + [Face Recognition Project](https://github.com/mnk17arts/myPython/tree/main/opencv/face-recognition-project)
-+ Hand Detection Project
++ [Hand Tracking Project](https://github.com/mnk17arts/myPython/tree/main/opencv/hand-tracking-module)
 + Virtual paint Project
 + Show more...
 > [Web Development Projects](https://github.com/mnk17arts/myHtmlCssJs)
@@ -42,6 +42,7 @@ Lets have a virtual one for now @
 *  [`mail`](mailto:mnk17arts@gmail.com)
 *  [`facebook`](https://www.facebook.com/nit1717)
 *  [`twitter`](https://twitter.com/mnk17art_?s=09)
+*  [`codepen`](https://codepen.io/mnk17arts)
 <br/><br/>ok then!! happy going!
 Hold a sec!! here is my [`CV`]()
 <hr/>
