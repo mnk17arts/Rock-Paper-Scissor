@@ -14,7 +14,7 @@ Oops! I think I have deviated totally to another track😅 Huhh! well I wont say
 > OpenCV Projects
 + [Face Recognition Project](https://github.com/mnk17arts/myPython/tree/main/opencv/face-recognition-project)
 + [Hand Tracking Project](https://github.com/mnk17arts/myPython/tree/main/opencv/hand-tracking-module)
-+ Virtual paint Project
++ [Virtual paint Project](https://github.com/mnk17arts/myPython/tree/main/opencv/virtual-paint-project)
 + Show more...
 > [Web Development Projects](https://github.com/mnk17arts/myHtmlCssJs)
 - [Sample Personal Portfolio Webpage](https://codepen.io/mnk17arts/full/wvgdqya)
