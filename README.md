@@ -32,6 +32,11 @@ Oops! I think I have deviated totally to another track😅 Huhh! well I wont say
    + [Show more](https://github.com/mnk17arts/myPython)
 + C / C++
 + Java
++ [JavaScript](https://github.com/mnk17arts/myHtmlCssJs/tree/main/JS%20DSA%20Projects)
+    - [Cash Register](https://github.com/mnk17arts/myHtmlCssJs/blob/main/JS%20DSA%20Projects/cash-register.js)
+    - [Telephone Number Validator](https://github.com/mnk17arts/myHtmlCssJs/blob/main/JS%20DSA%20Projects/telephone-number-validator.js)
+    - [Roman Numeral Converter](https://github.com/mnk17arts/myHtmlCssJs/blob/main/JS%20DSA%20Projects/roman-numeral-converter.js)
+    - [Show More...](https://github.com/mnk17arts/myHtmlCssJs/tree/main/JS%20DSA%20Projects)
 + Show more...
 
 ## *Beginning is the End* ⚠️
