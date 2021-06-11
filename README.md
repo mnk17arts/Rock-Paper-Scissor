@@ -46,10 +46,11 @@ Lets have a virtual one for now @
 *  [`LinkedIn`](https://www.linkedin.com/in/mnk17arts/)
 *  [`Instagram`](https://www.instagram.com/mnk17arts__/)
 *  [`mail`](mailto:mnk17arts@gmail.com)
-*  [`facebook`](https://www.facebook.com/nit1717)
+*  [`facebook`](https://www.facebook.com/mnk17arts)
 *  [`twitter`](https://twitter.com/mnk17art_?s=09)
 *  [`codepen`](https://codepen.io/mnk17arts)
 <br/><br/>ok then!! happy going!
-Hold a sec!! here is my [`CV`]()
+Hold a sec!! here is my [`CV`](https://github.com/mnk17arts/mnk17arts/files/6635986/mnk17arts.x.resume.pdf)
+
 <hr/>
 <h1><b> <p align="center">Namaste 🙏 </p>  </b> <h1/>
